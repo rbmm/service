@@ -7,20 +7,18 @@ command line:
 
 install for current user:
 
-**ssdk.exe *i*c**
+*i*c
 
 install for <user_name>:
 
-**ssdk.exe *i*u*<user_name>**
+*i*u*<user_name>
 
 install for <sid>:
 
-**ssdk.exe *i*s*<sid>**
+*i*s*<sid>
 
 delete (and stop) service:
-
-**ssdk.exe *d**
+*d
 
 run as client for <file>:
-
-**ssdk.exe *c*<file>**
+*c*<file>
